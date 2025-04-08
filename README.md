@@ -29,7 +29,6 @@ currently_learning: ["Python, SQL"]
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="js" width="45" height="45"/> 
 </p>
 
-![Snake animation](https://github.com/weideow/weideow/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **weideow/weideow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
